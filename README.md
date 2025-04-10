@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umarsamdani
+- 👋 Hi, I’m @samdanirani
 - 👀 I’m interested in technology, basketball, and movies.
 - 🌱 I’m currently learning how to use GitHub.
 - 💞️ I’m looking to collaborate on anything I can help with.
